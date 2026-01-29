@@ -1,39 +1,90 @@
-# 💫 About Me:
-About Me<br><br>I’m a software developer with hands-on experience building and shipping production web and mobile applications used by real users. I enjoy working close to the product—taking ideas from concept to deployment—while focusing on performance, reliability, and clean system design.<br><br>Currently, I’m working at Octavertex Media as a Software Developer Lead, where I contribute to building and maintaining scalable digital products, guide technical decisions, and collaborate closely with cross-functional teams. My work involves frontend and mobile development, backend integration, release management, and improving overall engineering quality.<br><br>I’m particularly interested in solving real-world problems, owning features end to end, and continuously improving systems as they scale. I value clarity, thoughtful engineering, and building products that are stable, maintainable, and meaningful for users.
+<!-- ===== README: Arup Biswas (Profile README) ===== -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arupbiswas09/Arupbiswas09/main/hero-animated.gif" alt="Arup Biswas - Building Real Products" width="900" style="max-width:100%;">
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Arup Biswas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_arupbiswas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arup-biswas-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myarupslg@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arupbiswas09&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arupbiswas09&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arupbiswas09&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arupbiswas09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 👋 Hi, I'm Arup Biswas — I build things that ship 🚀
+**Software Developer Lead @ Octavertex Media** • Lead Mobile & Full-Stack Engineer • Open to Remote / Global (UTC+5:30)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arupbiswas09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔎 Quick Snapshot
+- ✅ **3+ years** building production apps (Web, iOS, Android)  
+- 🚀 Lead developer of **Inbo** — full mobile + web ownership (App Store & Play Store)  
+- ⚙️ Completed **Expo → React Native CLI (bridgeless)** migration *alone in 6 days* preserving full functionality & releases  
+- 🧪 SDET + API testing experience (Postman, CI/CD) • Data-safe migrations (Next.js → Django REST)
 
-<!--
-**Arupbiswas09/Arupbiswas09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Links & Contact
+[Website — Portfolio](https://arupbiswas.netlify.app) • [Resume (PDF)](./Arup_Biswas_Resume.pdf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arup-biswas-dev) [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myarupslg@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Highlights
+- Lead Mobile & Full-Stack Engineer for production newsletter platform **Inbo** (Web + React Native)  
+- Migrated app architecture from **Expo → Bridgeless RN CLI** in **6 days** with zero regression  
+- Designed client optimizations to solve **API rate limiting** (caching, batching, debouncing, prioritized background sync)  
+- Led backend migration for admin & operational needs: **Next.js → Django REST** while preserving all user data
+
+---
+
+## 📱 Featured Projects
+
+### Inbo — Newsletter & Reading Platform  
+**Role:** Lead Mobile Application Developer & Full-Stack Contributor  
+- iOS: https://apps.apple.com/in/app/inbo-club/id6747464212  
+- Android: https://play.google.com/store/apps/details?id=club.inbo.newsletter  
+**What I owned:** mobile architecture, offline-first reading, auth (OTP + OAuth), token refresh flows, app releases.  
+**Proudest:** Offline-first sync + reliable production releases across iOS & Android.
+
+---
+
+### FarmAid — AI-based Crop & Livestock Diagnostic (Demo)  
+**Role:** Lead Dev (Prototype & ML integration)  
+- Built Flutter frontend + TF inference pipeline for image-based disease detection  
+- Integrated cloud inference & created farmer-friendly UI flows
+
+---
+
+## 🛠 Tech I Use (grouped)
+**Mobile:** React Native · Expo · React Native CLI · EAS Build · iOS / Android builds  
+**Frontend:** React · Next.js · TypeScript · TailwindCSS  
+**Backend:** Django REST · Node.js · REST APIs · JWT · OAuth  
+**Data & Infra:** PostgreSQL · Firebase · Docker · Netlify · GitHub Actions (CI/CD)  
+**Testing & Tools:** Postman · Jest · Flipper · Analytics (Mixpanel / Firebase)  
+**ML / AI:** TensorFlow (inference) · Image classification pipelines
+
+---
+
+## 📌 Experience Snapshot
+**Octavertex Media** — Software Developer Lead (Current)  
+**Thatha / Quokka for Good** — Lead Mobile Developer (Inbo)  
+**Esutra** — Software Engineer Intern (React Native)
+
+---
+
+## 📈 GitHub Stats & Activity
+<!-- GitHub dynamic cards (leave as is) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arupbiswas09&theme=darcula&show_icons=true&include_all_commits=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Arupbiswas09&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arupbiswas09&theme=darcula&layout=compact)
+
+---
+
+## 🧾 Achievements
+- ✅ Multiple production App Store & Play Store releases (Inbo)  
+- ✅ Rapid Expo→CLI bridgeless migration (6 days) — native configs, signing, release pipelines  
+- ✅ Reduced API usage & server strain via client-side optimizations
+
+---
+
+## 🧩 Streak / Private Stats
+> If you want your streak to stand out: keep the `nirzak-streak-stats` card (above) and add a **custom badge** like this (replace with your banner image or GIF):
+
+```md
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arupbiswas09/Arupbiswas09/main/streak-badge.gif" alt="Current streak" width="600" />
+</p>
